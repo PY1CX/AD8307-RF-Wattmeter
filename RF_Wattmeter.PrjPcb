@@ -208,6 +208,119 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RWGSQODJ
 
+[Document11]
+DocumentPath=Job1.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[GeneratedDocument1]
+DocumentPath=Gerber-RF-Watt\NC Drill\RF_Wattmeter-BoardEdgeRout.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Gerber-RF-Watt\NC Drill\RF_Wattmeter-RoundHoles-Plated.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Gerber-RF-Watt\NC Drill\RF_Wattmeter-SlotHoles-Plated.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Gerber-RF-Watt\NC Drill\RF_Wattmeter.DRL
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Gerber-RF-Watt\NC Drill\RF_Wattmeter.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Gerber-RF-Watt\Gerber\RF_Wattmeter.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Gerber-RF-Watt\Gerber\RF_Wattmeter.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Gerber-RF-Watt\Gerber\RF_Wattmeter.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Gerber-RF-Watt\Gerber\RF_Wattmeter.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Gerber-RF-Watt\Gerber\RF_Wattmeter.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Gerber-RF-Watt\Gerber\RF_Wattmeter.GKO
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Gerber-RF-Watt\Gerber\RF_Wattmeter.GM1
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Gerber-RF-Watt\Gerber\RF_Wattmeter.GM13
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Gerber-RF-Watt\Gerber\RF_Wattmeter.GM15
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Gerber-RF-Watt\Gerber\RF_Wattmeter.GM29
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Gerber-RF-Watt\Gerber\RF_Wattmeter.GPB
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Gerber-RF-Watt\Gerber\RF_Wattmeter.GPT
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=Gerber-RF-Watt\Gerber\RF_Wattmeter.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=Gerber-RF-Watt\Gerber\RF_Wattmeter.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=Gerber-RF-Watt\Gerber\RF_Wattmeter.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=Gerber-RF-Watt\Gerber\RF_Wattmeter.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=Gerber-RF-Watt\NC Drill\RF_Wattmeter.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=Gerber-RF-Watt\Gerber\RF_Wattmeter.REP
+DItemRevisionGUID=
+
+[GeneratedDocument24]
+DocumentPath=Gerber-RF-Watt\Gerber\RF_Wattmeter.RUL
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Default Configuration
 ParameterCount=0
@@ -248,7 +361,7 @@ PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate
 [OutputGroup3]
 Name=Documentation Outputs
 Description=
-TargetPrinter=Foxit Reader PDF Printer
+TargetPrinter=Virtual Printer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Assembler Source Print
 OutputName1=Assembler Source Prints
@@ -1037,4 +1150,7 @@ ComparisonOptions2=Kind=Component Class|MinPercent=75|MinMatch=3|ShowMatch=-1|Co
 ComparisonOptions3=Kind=Rule|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
 ComparisonOptions4=Kind=Differential Pair|MinPercent=50|MinMatch=1|ShowMatch=0|Confirm=0|UseName=0|InclAllRules=0
 ComparisonOptions5=Kind=Code Memory|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
+
+[SmartPDF]
+PageOptions=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 

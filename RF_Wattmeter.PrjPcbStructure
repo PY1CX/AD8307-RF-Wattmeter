@@ -1,0 +1,3 @@
+Record=TopLevelDocument|FileName=PIC.SchDoc
+Record=SheetSymbol|Record=SheetSymbol|SourceDocument=PIC.SchDoc|Designator=AD83071|SchDesignator=Repeat(AD8307,1,2)|FileName=AD8307.SchDoc|SymbolType=Normal|RawFileName=AD8307.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|Record=SheetSymbol|SourceDocument=PIC.SchDoc|Designator=AD83072|SchDesignator=Repeat(AD8307,1,2)|FileName=AD8307.SchDoc|SymbolType=Normal|RawFileName=AD8307.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
