@@ -8,7 +8,10 @@ I always wanted to build a RF Wattmeter with the AD8307 and OZ2CPU design. I was
 ### Inside the Hammond 1590B box
 ![Preview](https://github.com/PY1CX/AD8307-RF-Wattmeter/blob/master/InsideBox.png?raw=true)
 
-ATTENTION:
-For V1.0 boards, the PCB project suffer from a pin swap on MC78L05. Pin 1 and Pin 3 are swapped, you MUST correct it on your building or your PIC will die from overvoltage.
+ATTENTION KNOW BUGS:
+For V1.0 boards:
+
+The PCB project suffer from a pin swap on MC78L05. Pin 1 and Pin 3 are swapped, you MUST correct it on your building or your PIC will die from overvoltage.
+I put a place for a 16x2 LCD but the correct one is a 20x4!
 
 Original Schematic and Software: http://www.webx.dk/oz2cpu/radios/miliwatt.htm
