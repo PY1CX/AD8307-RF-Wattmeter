@@ -5,8 +5,8 @@ I always wanted to build a RF Wattmeter with the AD8307 and OZ2CPU design. I was
 ### Bare PCB
 ![Preview](https://github.com/PY1CX/AD8307-RF-Wattmeter/blob/master/BarePCB.png?raw=true)
 
-### Inside the Hammond 1590B box
-![Preview](https://github.com/PY1CX/AD8307-RF-Wattmeter/blob/master/InsideBox.png?raw=true)
+### Prototype Working
+![Preview](https://github.com/PY1CX/AD8307-RF-Wattmeter/raw/master/Prototype-Working.png)
 
 ATTENTION KNOW BUGS:
 
